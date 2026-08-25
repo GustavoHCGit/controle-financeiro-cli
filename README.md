@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar e executar o aplicativo localmente:
 
     ```bash
     git clone <URL_DO_REPOSITORIO>
-    cd controle_financeiro_cli
+    cd controle-financeiro-cli
     ```
 
 2.  **Crie e ative um ambiente virtual** (recomendado):
