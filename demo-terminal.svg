@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Demonstração do Controle Financeiro CLI</title>
+  <desc id="desc">Execução real do menu do aplicativo, com salário, aluguel e saldo de 2300 reais.</desc>
+  <rect width="1200" height="650" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="52" rx="18" fill="#161b22"/>
+  <circle cx="28" cy="26" r="8" fill="#ff5f56"/><circle cx="54" cy="26" r="8" fill="#ffbd2e"/><circle cx="80" cy="26" r="8" fill="#27c93f"/>
+  <text x="600" y="32" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="18">controle-financeiro-cli — Terminal</text>
+  <text x="44" y="92" fill="#79c0ff" font-family="monospace" font-size="20">$ python3 main.py</text>
+  <text x="44" y="136" fill="#c9d1d9" font-family="monospace" font-size="19">Menu:  1. Adicionar Transação  2. Ver Transações</text>
+  <text x="44" y="168" fill="#c9d1d9" font-family="monospace" font-size="19">       3. Ver Saldo          4. Sair</text>
+  <text x="44" y="216" fill="#8b949e" font-family="monospace" font-size="19">Transação adicionada com sucesso!</text>
+  <text x="44" y="258" fill="#8b949e" font-family="monospace" font-size="19">Transação adicionada com sucesso!</text>
+  <text x="44" y="310" fill="#c9d1d9" font-family="monospace" font-size="19">--- Transações ---</text>
+  <text x="44" y="344" fill="#a5d6ff" font-family="monospace" font-size="18">ID: 1  Descrição: Salário  Valor: 3500.00  Tipo: receita</text>
+  <text x="44" y="376" fill="#a5d6ff" font-family="monospace" font-size="18">ID: 2  Descrição: Aluguel  Valor: 1200.00  Tipo: despesa</text>
+  <text x="44" y="408" fill="#c9d1d9" font-family="monospace" font-size="19">------------------</text>
+  <text x="44" y="462" fill="#7ee787" font-family="monospace" font-size="24">Saldo Atual: R$ 2300.00</text>
+  <text x="44" y="520" fill="#8b949e" font-family="monospace" font-size="19">Saindo...</text>
+  <rect x="44" y="570" width="14" height="26" fill="#58a6ff"/>
+</svg>
