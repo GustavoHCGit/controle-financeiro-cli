@@ -155,15 +155,3 @@ Para adicionar uma transacção, escolha `1`, informe a descrição, o valor e i
 └── README.md
 
 ```
-
-
-
-## Licença
-
-
-
-Este projecto está disponível para fins de estudo e portfólio.
-
-
-
-
